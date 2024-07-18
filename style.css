@@ -1,0 +1,93 @@
+.circo{
+    left: 420px;
+    width: 18px;
+    top: 2px;
+    height: 18px;
+    border: 1px solid ;
+    border-color: aqua;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    
+}
+
+table, th,td{
+    width: 360px;
+    border: 1px solid black;
+    top: 3cm;
+    position: inherit;
+    border: solid;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+
+.div{
+    width: 500px;
+    height: 270px;
+    margin: 10px;
+    top: 30%;
+    left: 30%;
+    position: absolute;
+    border-color: black;
+    border: 1px solid;
+}
+
+.line{
+    width: 500px;
+    height: 1px;
+    top: 30px;
+    background-color: black;
+    position: absolute;
+    border: 1cm;
+    
+}
+.div1{
+    top: 30px;
+    left: 30px;
+width: 430px;
+height: 250px;
+margin: 10px;
+position: absolute;
+}
+
+.label1{
+    top: 1px;
+    left: 0px;
+    position: relative;
+}
+
+.button{
+    top: 60px;
+    position: inherit;
+    height: 25px;
+    width: 80px;
+    background-color: aqua;
+    border: 0px;
+}
+
+
+
+.label2{
+    top: 1px;
+    left: 4.3cm;
+    position: relative;
+    
+}
+
+
+.input1 {
+    top: 30px;
+    left: 5.7cm;
+    position: inherit;
+    border-color: bisque;    
+    background-color: bisque;
+   
+}
+.input2 {
+    top: 30px;
+    height: 15px;
+    position: inherit;
+}
+
+
